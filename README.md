@@ -1,1 +1,1 @@
-# statistical-inference
+simulation and inferential statistics
