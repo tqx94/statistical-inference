@@ -5,12 +5,12 @@ output: html_document
 ---
 
 #### Overview
-This project is spilt into 2 parts. They will be spilt into simulation and EDA of tooth growth data
+This project is spilt into 2 parts. They will be spilt into simulation and statistical analysis of tooth growth data. In the tooth growth data, we will do a statistical analysis to see if there will be significant differences in the means of using OJ or VC. 
 
 
 
 
-Part 2: EDA of Tooth growth data 
+Part 2: Statistical Analysis of Tooth growth data 
 ```{r, loading data}
 datadf <- ToothGrowth
 ```
